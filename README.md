@@ -18,7 +18,11 @@
 - See "Troubleshootings" section if you using other audio mods
 - Reboot (reboot twice don't reflash, if you have Magisk sepolicy.rule bug)
 
-## Optional
+## Tested on
+- Android 10 arm64 CrDroid ROM
+- Android 11 arm64 DotOS ROM
+
+## Optionals
 - https://t.me/androidryukimodsdiscussions/2616
 
 ## Troubleshootings
@@ -29,11 +33,9 @@
 - If you don't do above, it will be closed immediately
 
 ## Credits and contributors
-- @guitardedhero
+- Android Ryuki Mods Discussions Team
+- https://t.me/androidryukimodsdiscussions/25188
 - @Foxtrot47
-- @aip_x
-- @aquahol
-- @BanCodrut
 - @adi153
 - @Deivid_21
 
